@@ -1,0 +1,62 @@
+{
+	"version": {
+		"cmd": "Version",
+		"help": "Versión actual del Bot. `{}`",
+		"content": "`{}`"
+	},
+	"help": {
+		"cmd": "",
+		"help": "",
+		"content": ""
+	},
+	"white paper": {
+		"cmd": "White Paper",
+		"help": "White Paper de Axie Infinity.",
+		"content": "**Axie Infinity - White Paper:** https: //whitepaper.axieinfinity.com/"
+	},
+	"stats": {
+		"cmd": "Stats",
+		"help": "Información sobre los Axies y sus Stats.",
+		"content": "**Axie Infinity Stats and their effects | AxieZone:** https: //axie.zone/stats"
+	},
+	"slp farming guide": {
+		"cmd": "SLP Farming Guide",
+		"help": "Guía de Farmeo de SLP.",
+		"content": "**SLP Farming Guide:** https: //axieedge.com/slp-farming-guide/"
+	},
+	"exp leveling guide": {
+		"cmd": "EXP Leveling Guide",
+		"help": "Guía sobre la Experiencia",
+		"content": "**Adventure Mode (PVE) EXP Leveling Guide:** https: //axieedge.com/adventure-mode-pve-exp-leveling-guide/"
+	},
+	"breeding and slp": {
+		"cmd": "Breeding and SLP",
+		"help": "Información sobre la Crianza y sus Costos en SLP.",
+		"content": "**Breeding and $SLP:** https: //whitepaper.axieinfinity.com/gameplay/breeding"
+	},
+	"_#id": {
+		"cmd": "#ID",
+		"help": "Ver información de un `Axie` mediante si `#ID`.",
+		"content": ""
+	},
+	"tokens": {
+		"cmd": "Tokens",
+		"help": "Lista de precios USD en tiempo real de los tokens SLP, AXS y ETH.",
+		"content": ""
+	},
+	"slp": {
+		"cmd": "SLP",
+		"help": "Precio USD en tiempo real del SLP.",
+		"content": ""
+	},
+	"axs": {
+		"cmd": "AXS",
+		"help": "Precio USD en tiempo real del AXS.",
+		"content": ""
+	},
+	"eth": {
+		"cmd": "ETH",
+		"help": "Precio USD en tiempo real del ETH.",
+		"content": ""
+	}
+}
